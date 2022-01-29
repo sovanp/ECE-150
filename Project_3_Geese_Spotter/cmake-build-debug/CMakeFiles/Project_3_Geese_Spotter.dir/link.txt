@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Project_3_Geese_Spotter.dir/geesespotter.cpp.o CMakeFiles/Project_3_Geese_Spotter.dir/geesespotter_lib.cpp.o  -o Project_3_Geese_Spotter.exe -Wl,--out-implib,libProject_3_Geese_Spotter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
