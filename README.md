@@ -3,6 +3,8 @@ University of Waterloo ECE 150 - Fundamentals of Programming
 
 Programming fundamentals, classes, arrays and lists, list traversals, searching and sorting algorithms, object-oriented design, polymorphism and inheritance, pointers and references, and memory management.
 
+Projects are implemented in C++.
+
 Project 1: Staircase
 
 Project 2: Checksum
